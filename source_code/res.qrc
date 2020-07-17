@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/arrive.png</file>
+        <file>res/car.png</file>
+        <file>res/map.png</file>
+        <file>res/plane.png</file>
+        <file>res/train.png</file>
+        <file>res/clear.png</file>
+        <file>res/return.png</file>
+        <file>res/set.png</file>
+        <file>res/cmd.png</file>
+        <file>res/exit.png</file>
+        <file>res/fig.png</file>
+        <file>res/test.txt</file>
+        <file>res/wait.png</file>
+        <file>res/welcome.png</file>
+        <file>res/logo.png</file>
+        <file>res/cmdwidget.png</file>
+    </qresource>
+</RCC>
